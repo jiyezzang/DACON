@@ -10,7 +10,8 @@
 2023.04 ~ 2023.04
 
 ### 필요한 라이브러리
-<<import warnings
+'''
+import warnings
 warnings.filterwarnings("ignore")
 
 import os
@@ -32,7 +33,8 @@ from sklearn.model_selection import KFold, cross_val_score
 
 import matplotlib.pyplot as plt
 import seaborn as sns
->>
+'''
+
 ## 레퍼런스
 
 matplotlib: 그래프 눈금 간격 지정 방
