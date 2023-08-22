@@ -10,7 +10,7 @@
 2023.04 ~ 2023.04
 
 ### 필요한 라이브러리
-''' python
+``` python
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -35,7 +35,7 @@ from sklearn.model_selection import KFold, cross_val_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-'''
+```
 
 ## 레퍼런스
 
