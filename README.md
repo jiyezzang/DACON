@@ -10,7 +10,7 @@
 2023.04 ~ 2023.04
 
 ### 필요한 라이브러리
-'''c
+'''python
 import warnings
 warnings.filterwarnings("ignore")
 
